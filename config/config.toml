@@ -1,0 +1,9 @@
+# Volume calculator configuration (all dimensions in metres)
+
+[dimensions]
+length = 5.0
+width = 3.0
+depth = 2.0
+
+units = "metres"
+shape = "rectangular_prism"
